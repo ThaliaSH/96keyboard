@@ -412,7 +412,7 @@
   )
 
   (module random-keyboard-parts:SKQG-1155865 (layer F.Cu) (tedit 5E62B398) (tstamp 653A093F)
-    (at 119.85625 30.1625)
+    (at 255.5375 71.69625)
     (path /6529433B)
     (attr smd)
     (fp_text reference SW1 (at 0 4.064) (layer F.SilkS)
